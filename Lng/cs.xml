@@ -1,0 +1,105 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Highlighting name="C#" ext="cs" commentLine="//" commentStart="/*" commentEnd="*/">
+  
+  <WordStyles>
+    <style fgColor="" bgColor="">PREPROCESSOR</style>
+    <style fgColor="" bgColor="">DEFAULT</style>
+    <style fgColor="" bgColor="" keywordClass="instr">INSTRUCTION</style>
+    <style fgColor="" bgColor="" keywordClass="datatype">TYPE</style>
+    <style fgColor="" bgColor="">NUMBER</style>
+    <style fgColor="" bgColor="">STRING</style>
+    <style fgColor="" bgColor="">CHARACTER</style>
+    <style fgColor="" bgColor="">OPERATOR</style>
+    <style fgColor="" bgColor="">VERBATIM</style>
+    <style fgColor="" bgColor="">REGEX</style>
+    <style fgColor="" bgColor="">COMMENT</style>
+    <style fgColor="" bgColor="">COMMENT_LINE</style>
+    <style fgColor="" bgColor="">COMMENT_DOC</style>
+    <style fgColor="" bgColor="">COMMENT_LINE_DOC</style>
+    <style fgColor="" bgColor="">COMMENT_DOC_KEYWORD</style>
+    <style fgColor="" bgColor="">COMMENT_DOC_KEYWORD_ERROR</style>
+  </WordStyles>
+  
+  <Keywords name="instr">
+    <word>abstract</word>
+    <word>as</word>
+    <word>base</word>
+    <word>break</word>
+    <word>case</word>
+    <word>catch</word>
+    <word>checked</word>
+    <word>continue</word>
+    <word>default</word>
+    <word>delegate</word>
+    <word>do</word>
+    <word>else</word>
+    <word>event</word>
+    <word>explicit</word>
+    <word>extern</word>
+    <word>false</word>
+    <word>finally</word>
+    <word>fixed</word>
+    <word>for</word>
+    <word>foreach</word>
+    <word>goto</word>
+    <word>if</word>
+    <word>implicit</word>
+    <word>in</word>
+    <word>interface</word>
+    <word>internal</word>
+    <word>is</word>
+    <word>lock</word>
+    <word>namespace</word>
+    <word>new</word>
+    <word>null</word>
+    <word>object</word>
+    <word>operator</word>
+    <word>out</word>
+    <word>override</word>
+    <word>params</word>
+    <word>private</word>
+    <word>protected</word>
+    <word>public</word>
+    <word>readonly</word>
+    <word>ref</word>
+    <word>return</word>
+    <word>sealed</word>
+    <word>sizeof</word>
+    <word>stackalloc</word>
+    <word>switch</word>
+    <word>this</word>
+    <word>throw</word>
+    <word>true</word>
+    <word>try</word>
+    <word>typeof</word>
+    <word>unchecked</word>
+    <word>unsafe</word>
+    <word>using</word>
+    <word>virtual</word>
+    <word>while</word>
+  </Keywords>
+
+  <Keywords name="datatype">
+    <word>bool</word>
+    <word>byte</word>
+    <word>char</word>
+    <word>class</word>
+    <word>const</word>
+    <word>decimal</word>
+    <word>double</word>
+    <word>enum</word>
+    <word>float</word>
+    <word>int</word>
+    <word>long</word>
+    <word>sbyte</word>
+    <word>short</word>
+    <word>static</word>
+    <word>string</word>
+    <word>struct</word>
+    <word>uint</word>
+    <word>ulong</word>
+    <word>ushort</word>
+    <word>void</word>
+  </Keywords>
+
+</Highlighting>

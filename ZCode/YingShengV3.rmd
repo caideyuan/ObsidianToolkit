@@ -1,0 +1,47 @@
+【YingSheng解决方案V3.0】
+
+框架项目
+Obsidian
+Oak
+
+----------
+工程项目
+
+YS.Model	[Model层]
+
+----------
+
+YS.Base		[基础模块]
+
+YS.Core		[核心模块]
+业务逻辑基类
+用户
+用户组
+角色
+权限
+
+YS.User		[用户模块]
+
+
+YS.Ask		[问答模块]
+
+
+YS.Course	[课程模块]
+
+YS.Mobile	[移动终端模块]
+
+----------
+YS.WebApi
+
+YS.WebApp
+
+----------
+YS.NotifyService
+
+YS.WinService	[服务模块]
+计划任务：
+定时发送提醒短信，提醒邮件
+定时同步手机站点和PC站点的URL路径对应关系
+
+
+

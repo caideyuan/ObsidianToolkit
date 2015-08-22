@@ -1,0 +1,1 @@
+﻿[#PrivateProp#] = new [#ModelFieldType#](this,"[#FieldName#]","[#FieldAlias#]"),
